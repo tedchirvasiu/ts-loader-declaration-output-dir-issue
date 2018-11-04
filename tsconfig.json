@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+     "moduleResolution": "node",
+     "baseUrl": "./",
+     "outDir": "./",
+     "declaration": true,
+     "sourceMap": true
+  },
+  "exclude": [
+    "dist/*"
+  ],
+  "compileOnSave": true
+}
